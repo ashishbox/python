@@ -8,3 +8,6 @@ type(num_a)
 print(num_a + num_a)
 
 my_name[-2]
+
+
+print('Rishita {0} {1}'.format('is', 'good', 'bad', 'komali'))
